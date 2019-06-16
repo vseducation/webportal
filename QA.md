@@ -15,7 +15,9 @@ A: Videos, tutorials, software information, and tip information will no longer b
 
 
 Q: How will this change affect current Facebook users who voted to like the page, and subscribe to notification from the page?
+
 A: We are aware that most of the current user base for the page resides in countries other than the US and we are working with Microsoft on issues where users could be blocked. An update will be provided when we have more information.
+
 
 Q: What is the reason for the change?
 
